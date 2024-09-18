@@ -1,6 +1,6 @@
 # Roman <=> Interger
 ---
-##### *Application developed to provide an efficient Roman to Integer translator (plus a bit of history on the subject). Made with python-streamlit.*. ([Appsite]())
+##### *AApplication developed to provide an efficient translator from Roman to integer and back (plus a bit of history on the subject). Made with python-streamlit.*. ([Appsite]())
 
 ### Preview:
 ---
